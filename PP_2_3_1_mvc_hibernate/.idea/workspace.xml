@@ -9,11 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68e195a0-b52f-49db-a8c0-38881093ad48" name="Changes" comment="Nice" />
+    <list default="true" id="68e195a0-b52f-49db-a8c0-38881093ad48" name="Changes" comment="HiMay" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -166,7 +171,7 @@
       <workItem from="1671792446083" duration="2431000" />
       <workItem from="1671795229239" duration="1183000" />
       <workItem from="1672046956537" duration="6607000" />
-      <workItem from="1672054515373" duration="3321000" />
+      <workItem from="1672054515373" duration="3713000" />
     </task>
     <task id="LOCAL-00001" summary="Nice">
       <created>1672059680083</created>
@@ -175,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672059680083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HiMay">
+      <created>1672060832738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672060832738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +206,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nice" />
+    <MESSAGE value="HiMay" />
+    <option name="LAST_COMMIT_MESSAGE" value="HiMay" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
