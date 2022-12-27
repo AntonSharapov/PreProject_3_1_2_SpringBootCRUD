@@ -9,7 +9,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68e195a0-b52f-49db-a8c0-38881093ad48" name="Changes" comment="fixup! Nice" />
+    <list default="true" id="68e195a0-b52f-49db-a8c0-38881093ad48" name="Changes" comment="Ho">
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/java/com/boot/pp_3_1_2/DAO/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/java/com/boot/pp_3_1_2/DAO/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/java/com/boot/pp_3_1_2/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/java/com/boot/pp_3_1_2/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/java/com/boot/pp_3_1_2/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/java/com/boot/pp_3_1_2/view/addUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/java/com/boot/pp_3_1_2/view/editUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/java/com/boot/pp_3_1_2/view/sh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/java/com/boot/pp_3_1_2/view/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/java/com/boot/pp_3_1_2/сontroller/UsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/resources/templates/addUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/resources/templates/editUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/resources/templates/sh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_3_1_2_Spring_Boot/src/main/resources/templates/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PP_2_3_1_mvc_hibernate/WEB-INF/view/editUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PP_2_3_1_mvc_hibernate/WEB-INF/view/editUser.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +71,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java_projects/PP_2_3_1_mvc_hibernate&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -171,7 +189,9 @@
       <workItem from="1671792446083" duration="2431000" />
       <workItem from="1671795229239" duration="1183000" />
       <workItem from="1672046956537" duration="6607000" />
-      <workItem from="1672054515373" duration="6680000" />
+      <workItem from="1672054515373" duration="9514000" />
+      <workItem from="1672094524527" duration="1670000" />
+      <workItem from="1672131414163" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="Nice">
       <created>1672059680083</created>
@@ -201,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672063282292</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HiMay">
+      <created>1672064394020</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672064394020</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
